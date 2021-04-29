@@ -892,6 +892,9 @@ blockquote {
   background: #1E1E42;
   padding-top: 50px;
   padding-bottom: 50px;
+  display: -ms-flexbox;
+  align-items: center;
+  align-content: center;
 }
 
 #footer .socials-media {
