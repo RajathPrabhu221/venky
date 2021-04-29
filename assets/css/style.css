@@ -108,12 +108,15 @@ p {
 .section-title {
   margin-top: 40px;
   margin-bottom: 30px;
+  padding-top: 50px;
+
 }
 
 .section-title h2 {
   font-size: 25px;
   letter-spacing: 2px;
   text-transform: uppercase;
+  color: #1E1E42;
 }
 
 .form-control {
@@ -1346,18 +1349,19 @@ blockquote {
   font-size: 18px;
   font-weight: bold;
   margin: 10px 0 5px 45px;
-  color: #111;
+  color: #444444;
 }
 
 .testimonials .testimonial-item h4 {
   font-size: 14px;
-  color: #999;
+  color: #444444;
   margin: 0 0 0 45px;
 }
 
 .testimonials .testimonial-item .quote-icon-left, .testimonials .testimonial-item .quote-icon-right {
-  color: #e4e6ea;
+  color: #444444;
   font-size: 26px;
+
 }
 
 .testimonials .testimonial-item .quote-icon-left {
@@ -1402,6 +1406,11 @@ blockquote {
   background-color: #16df7e !important;
 }
 
+.testimonials{
+  background-color: #F4F9F9;
+
+
+}
 @media (max-width: 767px) {
   .testimonials {
     margin: 30px 10px;
