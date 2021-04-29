@@ -332,7 +332,7 @@ nav ul li a {
 #about {
   width: 100%;
   height: auto;
-  background: #D8EBE4;
+  background: #F4F9F9;
   padding-top: 120px;
 }
 
@@ -367,7 +367,7 @@ nav ul li a {
 # Services
 --------------------------------------------------------------*/
 #services {
-  background: #D8EBE4;
+  background: #F4F9F9;
   position: relative;
   padding-bottom: 80px;
 }
@@ -610,7 +610,7 @@ nav ul li a {
 #journal, #journal-blog {
   height: auto;
   width: 100%;
-  background: #D8EBE4;
+  background: #F4F9F9;
   padding-bottom: 60px;
   position: relative;
 }
@@ -889,7 +889,7 @@ blockquote {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  background: #f7f7f7;
+  background: #1E1E42;
   padding-top: 50px;
   padding-bottom: 50px;
 }
