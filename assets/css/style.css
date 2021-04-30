@@ -34,7 +34,7 @@ h2 {
 }
 
 h3 {
-  color: #161616;
+  color: #f4f9f9;
   font-size: 14px;
   font-weight: 600;
 }
@@ -1403,7 +1403,7 @@ blockquote {
 }
 
 .testimonials .owl-dot.active {
-  background-color: #16df7e !important;
+  background-color: #1E1E42 !important;
 }
 
 .testimonials{
