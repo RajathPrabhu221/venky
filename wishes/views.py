@@ -1,4 +1,4 @@
-from django.shortcuts import render
+from django.shortcuts import render, redirect
 from .forms import WishesForm
 from .models import Wishes
 
@@ -8,6 +8,7 @@ def wishes(request):
         form = WishesForm(request.POST)
         if form.is_valid():
             form.save()
+        return redirect('home')
     else:
         form = WishesForm()
     
